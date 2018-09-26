@@ -10,10 +10,10 @@ import (
 	"runtime/trace"
 	"time"
 
-	"github.com/aarzilli/nucular"
-	"github.com/aarzilli/nucular/label"
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular"
+	"github.com/donomii/nucular/label"
+	"github.com/donomii/nucular/rect"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/mobile/event/key"
 )

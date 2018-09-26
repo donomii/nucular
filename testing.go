@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"image"
 
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular/rect"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/mouse"

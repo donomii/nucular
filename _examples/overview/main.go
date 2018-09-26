@@ -5,8 +5,8 @@ import (
 	"runtime/pprof"
 	"runtime/trace"
 
-	"github.com/aarzilli/nucular"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular"
+	nstyle "github.com/donomii/nucular/style"
 )
 
 const dotrace = false

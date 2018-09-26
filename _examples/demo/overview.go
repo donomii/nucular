@@ -9,11 +9,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/aarzilli/nucular"
-	ncommand "github.com/aarzilli/nucular/command"
-	"github.com/aarzilli/nucular/label"
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular"
+	ncommand "github.com/donomii/nucular/command"
+	"github.com/donomii/nucular/label"
+	"github.com/donomii/nucular/rect"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/mobile/event/mouse"
 )

@@ -3,7 +3,7 @@ package nucular
 import (
 	"image"
 
-	"github.com/aarzilli/nucular/rect"
+	"github.com/donomii/nucular/rect"
 
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/mouse"

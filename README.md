@@ -5,9 +5,9 @@ Source port to go of an early version of [nuklear](https://github.com/vurtun/nuk
 
 ## Documentation
 
-See [godoc](https://godoc.org/github.com/aarzilli/nucular), `_examples/overview/main.go` for a single window example, `_examples/demo/demo.go` for a multi-window example, and [gdlv](http://github.com/aarzilli/gdlv) for a more complex application built using nucular.
+See [godoc](https://godoc.org/github.com/donomii/nucular), `_examples/overview/main.go` for a single window example, `_examples/demo/demo.go` for a multi-window example, and [gdlv](http://github.com/donomii/gdlv) for a more complex application built using nucular.
 
 ## Screenshots
 
-![Overview](https://raw.githubusercontent.com/aarzilli/nucular/master/_examples/screen.png)
-![Gdlv](https://raw.githubusercontent.com/aarzilli/gdlv/master/doc/screen.png)
+![Overview](https://raw.githubusercontent.com/donomii/nucular/master/_examples/screen.png)
+![Gdlv](https://raw.githubusercontent.com/donomii/gdlv/master/doc/screen.png)

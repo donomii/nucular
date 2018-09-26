@@ -14,10 +14,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aarzilli/nucular/clipboard"
-	"github.com/aarzilli/nucular/command"
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular/clipboard"
+	"github.com/donomii/nucular/command"
+	"github.com/donomii/nucular/rect"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/exp/shiny/driver"
 	"golang.org/x/exp/shiny/screen"

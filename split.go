@@ -1,8 +1,8 @@
 package nucular
 
 import (
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular/rect"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/mobile/event/mouse"
 )

@@ -5,9 +5,9 @@ import (
 	"image/color"
 	"sync"
 
-	"github.com/aarzilli/nucular/command"
-	"github.com/aarzilli/nucular/internal/assets"
-	"github.com/aarzilli/nucular/label"
+	"github.com/donomii/nucular/command"
+	"github.com/donomii/nucular/internal/assets"
+	"github.com/donomii/nucular/label"
 
 	"golang.org/x/image/font"
 

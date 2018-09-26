@@ -4,12 +4,12 @@ import (
 	"image"
 	"strings"
 
-	nstyle "github.com/aarzilli/nucular/style"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/image/font"
 	"golang.org/x/mobile/event/mouse"
 
-	"github.com/aarzilli/nucular/rect"
+	"github.com/donomii/nucular/rect"
 
 	"github.com/hashicorp/golang-lru"
 )

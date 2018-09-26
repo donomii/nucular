@@ -4,8 +4,8 @@ import (
 	"image"
 	"testing"
 
-	"github.com/aarzilli/nucular/label"
-	"github.com/aarzilli/nucular/rect"
+	"github.com/donomii/nucular/label"
+	"github.com/donomii/nucular/rect"
 
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/mouse"

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/aarzilli/nucular"
-	"github.com/aarzilli/nucular/label"
+	"github.com/donomii/nucular"
+	"github.com/donomii/nucular/label"
 )
 
 type calcDemo struct {

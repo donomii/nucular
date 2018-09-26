@@ -4,10 +4,10 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/aarzilli/nucular/command"
-	"github.com/aarzilli/nucular/label"
-	"github.com/aarzilli/nucular/rect"
-	nstyle "github.com/aarzilli/nucular/style"
+	"github.com/donomii/nucular/command"
+	"github.com/donomii/nucular/label"
+	"github.com/donomii/nucular/rect"
+	nstyle "github.com/donomii/nucular/style"
 
 	"golang.org/x/image/font"
 )
