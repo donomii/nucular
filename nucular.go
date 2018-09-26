@@ -215,6 +215,10 @@ func (win *Window) style() *nstyle.Window {
 	}
 }
 
+func (win *Window) Cmds() *command.Buffer {
+       return &win.cmds
+}
+
 func panelBegin(ctx *context, win *Window, title string) {
 	in := &ctx.Input
 	style := &ctx.Style

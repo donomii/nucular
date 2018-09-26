@@ -525,7 +525,7 @@ func (ctx *context) Draw(wimg *image.RGBA) int {
 			fcirc++
 
 		case command.ImageCmd:
-			draw.Draw(img, icmd.Rectangle(), icmd.Image.Img, image.Point{}, draw.Src)
+			draw.Draw(img, icmd.Rectangle(), icmd.Image.Img, image.Point{}, draw.Over)
 
 		case command.TextCmd:
 			dstimg := wimg.SubImage(img.Bounds().Intersect(icmd.Rectangle())).(*image.RGBA)
