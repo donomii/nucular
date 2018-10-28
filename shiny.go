@@ -158,7 +158,7 @@ func (mw *masterWindow) main(s screen.Screen) {
 	width, height := mw.ctx.scale(mw.initialSize.X), mw.ctx.scale(mw.initialSize.Y)
 	mw.wnd, err = s.NewWindow(&screen.NewWindowOptions{width, height, mw.Title})
 	if err != nil {
-		fmt.Fprintf(os.Stderr, "could not create window: %v", err)
+		panic( err)
 		return
 	}
 	mw.setupBuffer(image.Point{width, height})
